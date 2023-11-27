@@ -1,0 +1,61 @@
+mysql:
+  host: 81.68.228.223
+  port: 3306
+  db: gvb_db
+  user: gvb_db
+  password: F2EYnicEF3Xw3Shb
+  log_level: dev
+  config: "charset=utf8mb4&parseTime=True&loc=Local"
+logger:
+  level: info
+  prefix: '[gins]'
+  director: log
+  show_line: true
+  log_in_console: true
+system:
+  host: 0.0.0.0
+  port: 8080
+  env: release
+site_info:
+  created_at: "2023-08-01"
+  bei_an: 333
+  title: hjw个人博客1
+  qq_image: http://www.baidu.com
+  version: 0.0.2
+  email: hkeonw@163.com
+  wechat_image: http://www.baidu.com
+  name: 个人博客
+  job: 后端开发
+  addr: 浙江
+  slogan: 个人博客
+  slogan_en: FFFFFFFSSSS
+  bilbil_url: http://www.baidu.com
+  gitee_url: http://www.baidu.com
+  github_url: http://www.baidu.com
+qq:
+  app_id: xxxxx
+  key: xxxx
+  redirect: xxxx
+qi_niu:
+  enable: false
+  access_key: FFFFFF
+  secret_key: xx
+  bucket: fffffff
+  cdn: fff://fff/
+  zone: ff
+  size: 5
+email:
+  host: 127.0.1.1
+  port: 465
+  user: xxx
+  password: xxx
+  default_from_email: xxx
+  use_ssl: false
+  user_tls: false
+jwt:
+  secret: "3333"
+  expires: 48
+  issuer: "1111"
+upload:
+  size: 2
+  path: uploads/file
