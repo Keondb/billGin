@@ -1,8 +1,8 @@
 package models
 
 import (
-	"bill_serve/global"
-	"bill_serve/models/ctype"
+	"bill/bill_serve/global"
+	"bill/bill_serve/models/ctype"
 	"os"
 
 	"gorm.io/gorm"

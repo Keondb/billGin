@@ -1,14 +1,14 @@
 package images_api
 
 import (
-	"bill_serve/models"
-	"bill_serve/models/res"
-	"bill_serve/service/common"
+	"bill/bill_serve/models"
+	"bill/bill_serve/models/res"
+	"bill/bill_serve/service/common"
 
 	"github.com/gin-gonic/gin"
 )
 
-// 图片列表
+// ImageListView 图片列表
 func (ImagesApi) ImageListView(c *gin.Context) {
 	var cr models.PageInfo
 	err := c.ShouldBindQuery(&cr)

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"bill_serve/models/res"
+	"bill/bill_serve/models/res"
 	"encoding/json"
 	"fmt"
 	"os"

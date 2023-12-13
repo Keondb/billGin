@@ -1,8 +1,8 @@
 package core
 
 import (
-	"bill_serve/config"
-	"bill_serve/global"
+	"bill/bill_serve/config"
+	"bill/bill_serve/global"
 	"fmt"
 	"io/fs"
 	"io/ioutil"

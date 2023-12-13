@@ -1,10 +1,10 @@
 package settings_api
 
 import (
-	"bill_serve/config"
-	"bill_serve/core"
-	"bill_serve/global"
-	"bill_serve/models/res"
+	"bill/bill_serve/config"
+	"bill/bill_serve/core"
+	"bill/bill_serve/global"
+	"bill/bill_serve/models/res"
 
 	"github.com/gin-gonic/gin"
 )

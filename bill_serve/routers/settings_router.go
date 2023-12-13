@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"bill_serve/api"
+	"bill/bill_serve/api"
 )
 
 func (router RouterGroup) SettingsRouter() {

@@ -1,7 +1,7 @@
 package core
 
 import (
-	"bill_serve/global"
+	"bill/bill_serve/global"
 	"fmt"
 	"time"
 

@@ -1,10 +1,10 @@
 package images_api
 
 import (
-	"bill_serve/global"
-	"bill_serve/models"
-	"bill_serve/models/res"
-	"bill_serve/utils"
+	"bill/bill_serve/global"
+	"bill/bill_serve/models"
+	"bill/bill_serve/models/res"
+	"bill/bill_serve/utils"
 	"fmt"
 	"io"
 	"io/fs"

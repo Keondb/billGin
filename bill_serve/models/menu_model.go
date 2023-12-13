@@ -1,6 +1,6 @@
 package models
 
-import "bill_serve/models/ctype"
+import "bill/bill_serve/models/ctype"
 
 type MenuModel struct {
 	MODEL

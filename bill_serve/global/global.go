@@ -1,7 +1,7 @@
 package global
 
 import (
-	"bill_serve/config"
+	"bill/bill_serve/config"
 
 	"github.com/sirupsen/logrus"
 	"gorm.io/gorm"

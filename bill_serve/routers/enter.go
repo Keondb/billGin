@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"bill_serve/global"
+	"bill/bill_serve/global"
 
 	"github.com/gin-gonic/gin"
 )

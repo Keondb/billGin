@@ -1,10 +1,10 @@
 package main
 
 import (
-	"bill_serve/core"
-	"bill_serve/flag"
-	"bill_serve/global"
-	"bill_serve/routers"
+	"bill/bill_serve/core"
+	"bill/bill_serve/flag"
+	"bill/bill_serve/global"
+	"bill/bill_serve/routers"
 )
 
 func main() {

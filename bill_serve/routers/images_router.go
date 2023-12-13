@@ -1,6 +1,6 @@
 package routers
 
-import "bill_serve/api"
+import "bill/bill_serve/api"
 
 func (router RouterGroup) ImagesRouter() {
 	ImagesApi := api.ApiGroupApp.ImagesApi

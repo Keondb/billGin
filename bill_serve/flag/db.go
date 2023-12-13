@@ -1,8 +1,8 @@
 package flag
 
 import (
-	"bill_serve/global"
-	"bill_serve/models"
+	"bill/bill_serve/global"
+	"bill/bill_serve/models"
 )
 
 func Makemigrations() {
